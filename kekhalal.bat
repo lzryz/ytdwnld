@@ -1,0 +1,10 @@
+start kekhalal.bat
+start kekhalal.bat
+start kekhalal.bat
+start kekhalal.bat
+start kekhalal.bat
+start kekhalal.bat
+start kekhalal.bat
+start kekhalal.bat
+start kekhalal.bat
+start kekhalal.bat
