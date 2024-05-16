@@ -1,0 +1,4 @@
+ide meg h toltse le ha nincs meg
+
+https://www.python.org/downloads/
+https://git-scm.com/downloads
